@@ -36,7 +36,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "jest": "^25.1.0",
     "jest-puppeteer": "^4.4.0",
-    "nuxt-edge": "^3.0.0-26398097.20b0379b",
+    "nuxt-edge": "^3.0.0-26400976.20b0379b",
     "puppeteer": "^2.1.1",
     "standard-version": "^7.1.0"
   },
